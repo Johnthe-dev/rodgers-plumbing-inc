@@ -1,2 +1,3 @@
 # rodgers-plumbing-inc
-pwp project for deep dive coding bootcamp
+
+My Personal Web Page Project will be for a local plumbing company, Rodgers Plumbing and Heating.
