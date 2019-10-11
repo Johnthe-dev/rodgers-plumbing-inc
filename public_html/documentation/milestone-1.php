@@ -39,19 +39,31 @@
 				selecting subcontractors to invite to submit bids to his construction firm.</p>
 		</div>
 
-		<div id="personaBackground">
+		<div id="personaTechnology">
 			<h5 id="personaTechnologyTitle" class="title">Technology</h5>
-			<p id="personaBackgroundDescription" class="description"></p>
+			<p id="personaTechnologyDescription" class="description"></p>
 		</div>
 
-		<div id="personaBackground">
-			<h5 id="personaTechnologyTitle" class="title">Technology</h5>
-			<p id="personaBackgroundDescription" class="description"></p>
+		<div id="personaAttitudes">
+			<h5 id="personaAttitudesTitle" class="title">Attitudes and Behaviors</h5>
+			<p id="personaAttitudesDescription" class="description"></p>
 		</div>
 
-				<div id="personaBackground">
-					<h5 id="personaTechnologyTitle" class="title">Technology</h5>
-		<p id="personaBackgroundDescription" class="description"></p>
+		<div id="personaFrustrations">
+			<h5 id="personaFrustrationsTitle" class="title">Frustrations and Needs</h5>
+			<p id="personaFrustrationsDescription" class="description"></p>
+		</div>
+
+		<div id="personaGoals">
+			<h5 id="personaGoalsTitle" class="title">Goals</h5>
+			<p id="personaGoalsDescription" class="description"></p>
+		</div>
+
+		<div id="personaStory">
+			<h5 id="personaStoryTitle" class="title">User Story</h5>
+			<p id="personaStoryDescription" class="description"></p>
+		</div>
+
 		<p id="personaDescription" class="description">Andy Hart: Andy Hart ia a fifty five year old white man currently
 			residing in Northwest Albuquerque, New Mexico off of Don Quixote Ct. Andy Hart founded Hart Construction in August 1989
 			when he was 25 years old with his college friend Jim Pekin. They still own Hart Construction. Prior to that, he worked
