@@ -32,7 +32,7 @@
 
 		<div id="personaBackground">
 			<h5 id="personaBackgroundTitle" class="title">Personal Background</h5>
-			<p id="personaBackgroundDescription" class="description">Andy Smith ia a fifty five year old white man currently
+			<p id="personaBackgroundDescription" class="description">Andy Smith ia a fifty five year old caucasian man currently
 				residing in Northwest Albuquerque. Andy Smith founded Smith Construction in August 1989
 				when he was 25 years old with his college friend Jim Paul. They still own Smith Construction. Prior to that, he worked
 				on a ranch in Chromo, Colorado for two years. He has a BA in Studio Art and Art History from Georgetown University. He
@@ -47,25 +47,25 @@
 
 		<div id="personaAttitudes">
 			<h5 id="personaAttitudesTitle" class="title">Attitudes and Behaviors</h5>
-			<p id="personaAttitudesDescription" class="description">Andy is a concise, exacting professional. He expects companies he works with to behave in the same manner. he appreciates functionality and clean design without distractions.</p>
+			<p id="personaAttitudesDescription" class="description">Andy is a concise, exacting professional. He expects companies he works with to behave in the same manner. He appreciates functionality and clean design without distractions.</p>
 		</div>
 
 		<div id="personaFrustrations">
 			<h5 id="personaFrustrationsTitle" class="title">Frustrations and Needs</h5>
-			<p id="personaFrustrationsDescription" class="description"></p>
+			<p id="personaFrustrationsDescription" class="description">Andy has previously dealt with subcontractors who were unable to complete large projects on schedule. He needs a number of qualified companies to send bid requests to so he has a wide selection to pick from.</p>
 		</div>
 
 		<div id="personaGoals">
 			<h5 id="personaGoalsTitle" class="title">Goals</h5>
-			<p id="personaGoalsDescription" class="description"></p>
+			<p id="personaGoalsDescription" class="description">He wants to find a company who will give him the most reliable quality of work for the lowest cost that can work on large scale projects.</p>
 		</div>
 
 		<div id="personaStory">
 			<h5 id="personaStoryTitle" class="title">User Story</h5>
-			<p id="personaStoryDescription" class="description"></p>
+			<p id="personaStoryDescription" class="description">As a General Contractor, I need to find subcontractors who are cheap, reliable, and experienced to invite to bid on a construction project.</p>
 		</div>
 
-		<p id="personaDescription" class="description">Andy Hart: Andy Smith ia a fifty five year old white man currently
+		<!--<p id="personaDescription" class="description">Andy Hart: Andy Smith ia a fifty five year old white man currently
 			residing in Northwest Albuquerque, New Mexico off of Don Quixote Ct. Andy Hart founded Smith Construction in August 1989
 			when he was 25 years old with his college friend Jim Paul. They still own Hart Construction. Prior to that, he worked
 			on a ranch in Chromo Colorado for two years. He has a BA in Studio Art and Art History from Georgetown University. His
@@ -77,7 +77,7 @@
 			unable to complete large projects on schedule. The goal of the website is to give him a good idea of the scale and variety
 			of jobs Rodgers Plumbing and Heating has performed along with a few testimonials commenting on the professionalism and
 			timeliness of Rodgers Plumbing and Heating.</p>
-	</div>
+	</div>-->
 
 	<div id="personaPicture" class="photo">
 		<img src="https://media.licdn.com/dms/image/C5603AQE9eYJc2uk6xQ/profile-displayphoto-shrink_200_200/0?e=1576108800&v=beta&t=mtGkuCq9c2K8yf7kqOa5Yt5xRpKFnVN40E_thJxA9p8" alt="Photo of Andy Hart">
