@@ -5,14 +5,14 @@
 	<title>Milestone 1</title>
 </head>
 <body>
-<h1 id="pageTitle" class="title">Milestone 1: John Johnson-Rodgers</h1>
+<h1 id="pageTitle" class="title">Milestone 1: Personal Web Page</h1>
 
 <div id="purposeAudienceGoalSection">
 	<h3 id="purposeAudienceGoalTitle" class="title">Purpose, Audience, Goal</h3>
 
 	<div id="purpose">
 		<h5 id="purposeTitle" class="title">Purpose</h5>
-		<p id="purposeDescription" class="description">Creating my PWP will build my profile and allow me to practice and improve my web development skills.</p>
+		<p id="purposeDescription" class="description">Creating my PWP will build my profile and allow me to practice and improve, and display my web development skills.</p>
 	</div>
 
 	<div id="audience">
