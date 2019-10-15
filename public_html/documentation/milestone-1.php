@@ -3,6 +3,7 @@
 <head>
 	<meta charset="UTF8">
 	<title>Milestone 1</title>
+	<link rel="stylesheet" href="style.css">
 </head>
 <body>
 <h1 id="pageTitle" class="title">Milestone 1: Personal Web Page</h1>
@@ -17,7 +18,7 @@
 
 	<div id="audience">
 		<h5 id="audienceTitle" class="title">Audience</h5>
-		<p id="audienceDescription" class="description">The site's audience will be local contractors and homeowners, specifically Andy Hart of Hart Construction. My intended audience includes my own potential employers who may view this site.</p>
+		<p id="audienceDescription" class="description">The site's audience will be local contractors and homeowners, specifically Andy Smith of Smith Construction. My intended audience includes my own potential employers who may view this site.</p>
 	</div>
 
 	<div id="goal">
@@ -28,7 +29,7 @@
 </div>
 
 	<div id="persona">
-		<h3 id="personaTitle" class="title">Persona: Andy Hart</h3>
+		<h3 id="personaTitle" class="title">Persona: Andy Smith</h3>
 
 		<div id="personaBackground">
 			<h5 id="personaBackgroundTitle" class="title">Personal Background</h5>
@@ -65,14 +66,14 @@
 			<p id="personaStoryDescription" class="description">As a General Contractor, I need to find subcontractors who are cheap, reliable, and experienced to invite to bid on a construction project.</p>
 		</div>
 
-		<!--<p id="personaDescription" class="description">Andy Hart: Andy Smith ia a fifty five year old white man currently
-			residing in Northwest Albuquerque, New Mexico off of Don Quixote Ct. Andy Hart founded Smith Construction in August 1989
-			when he was 25 years old with his college friend Jim Paul. They still own Hart Construction. Prior to that, he worked
+		<!--<p id="personaDescription" class="description">Andy Smith: Andy Smith ia a fifty five year old white man currently
+			residing in Northwest Albuquerque, New Mexico off of Don Quixote Ct. Andy Smith founded Smith Construction in August 1989
+			when he was 25 years old with his college friend Jim Paul. They still own Smith Construction. Prior to that, he worked
 			on a ranch in Chromo Colorado for two years. He has a BA in Studio Art and Art History from Georgetown University. His
 			father was a prominent lawyer in Albuquerque and has a building at the University of New Mexico named after him. Andy is
 			a serious, busy man who is very concise in his correspondence. He enjoys bass guitar.<br>
 			Andy is a windows user and would likely access the website while using Chrome or Internet Explorer on his desktop. He would
-			likely visit the website before inviting Rodgers Plumbing and Heating to bid on a project for Hart Construction to see if
+			likely visit the website before inviting Rodgers Plumbing and Heating to bid on a project for Smith Construction to see if
 			they have worked on projects of a similar scope in the past. He may have previously dealt with subcontractors who were
 			unable to complete large projects on schedule. The goal of the website is to give him a good idea of the scale and variety
 			of jobs Rodgers Plumbing and Heating has performed along with a few testimonials commenting on the professionalism and
@@ -80,7 +81,7 @@
 	</div>-->
 
 	<div id="personaPicture" class="photo">
-		<img src="https://media.licdn.com/dms/image/C5603AQE9eYJc2uk6xQ/profile-displayphoto-shrink_200_200/0?e=1576108800&v=beta&t=mtGkuCq9c2K8yf7kqOa5Yt5xRpKFnVN40E_thJxA9p8" alt="Photo of Andy Hart">
+		<img src="https://media.licdn.com/dms/image/C5603AQE9eYJc2uk6xQ/profile-displayphoto-shrink_200_200/0?e=1576108800&v=beta&t=mtGkuCq9c2K8yf7kqOa5Yt5xRpKFnVN40E_thJxA9p8" alt="Photo of Andy Smith">
 	</div>
 
 </body>
