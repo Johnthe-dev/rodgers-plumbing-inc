@@ -4,17 +4,28 @@
 }
 #pageTitle {
 	font-size: 2em;
+	color: antiquewhite;
 }
 .subtitle {
 	font-size: 1.25em;
 	font-family: "Arial Black", serif;
 }
+
 img {
 	width: 400px;
 }
-p {
-	width: 80%;
-}
+
 div {
 	padding: .5em;
+	background-color: antiquewhite;
+	width: 90%;
+	justify-content: center;
+	align-content: center;
+}
+body {
+	background-color: blue;
+	color: darkblue;
+}
+.flex-container {
+	display: flex;
 }
