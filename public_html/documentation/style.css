@@ -1,3 +1,20 @@
 .title {
-	font-family: "Arial Black serif";
+	font-family: "Arial Black", serif;
+	font-size: 1.5em;
+}
+#pageTitle {
+	font-size: 2em;
+}
+.subtitle {
+	font-size: 1.25em;
+	font-family: "Arial Black", serif;
+}
+img {
+	width: 400px;
+}
+p {
+	width: 80%;
+}
+div {
+	padding: .5em;
 }
