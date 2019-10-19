@@ -32,7 +32,12 @@
 			<p class="description" id="companyHistoryDescription">This section will include a photo on the right and a text block on the left. The text block will include a founding story, number of years active, and an introduction to Jay Rodgers. The photo will be of Jay Rodgers smiling, perhaps with the company building in the background.</p>
 		</div>
 
-		<div id="Scroller">
+		<div id="scroller">
+			<h5 class="subtitle" id="scrollerTitle">Scroller</h5>
+			<p class="description" id="scrollerDescription">This section will be a scroller with images of various types of work that the company performs. eg. utility work, plumbing work, fixture installation, and residential work. This is also an opportunity to show the wide varieties of scale of project that we work on. This section will take up the width of the viewport and will adjust to fit smaller screens.</p>
+		</div>
+
+		<div id="servicesWeProvide">
 
 		</div>
 	</div>
