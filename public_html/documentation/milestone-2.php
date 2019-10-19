@@ -20,10 +20,15 @@
 
 <div id="navigationBar">
 	<h5 class="subtitle" id="navigationBarTitle">Navigation Bar</h5>
-	<p class="description" id="navigationBarDescription">This will initially be below the "Hero Image" and will remain at the top of the screen as the viewer scrolls down(as seen in the wireframes below). This will have the company logo on the left side of the bar and navigational links on the right side of the bar. These links will include a "About Us" link, a "Services" link and a "Contact" link. When clicked, the viewport will be moved to the appropriate section of the web page.</p>
+	<p class="description" id="navigationBarDescription">This will initially be below the "Hero Image" and will remain at the top of the screen as the viewer scrolls down(as seen in the wireframes below). This will have the company logo on the left side of the bar and navigational links on the right side of the bar. These links will include a "About Us" link(links to Call To Action and Company History), a "Services" link (links to Scroller and Services We Provide)  and a "Contact" link(links to Contact Form and Location and Accreditation. When clicked, the viewport will be moved to the appropriate section of the web page.</p>
 </div>
 
 <div id="callToAction">
+	<h5 class="subtitle" id="callToActionTitle">Call to Action</h5>
+	<p class="description" id="callToActionDescription">This section will include a photo on the left and a text block on the right. The photo will be of a few employees working on a project. the text block will state why RPHI does what it does and a call to action to "considering using us for your next plumbing project, big or small".</p>
+</div>
+
+<div id="companyHistory">
 
 </div>
 </body>
