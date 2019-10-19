@@ -38,7 +38,8 @@
 		</div>
 
 		<div id="servicesWeProvide">
-
+			<h5 class="subtitle" id="servicesWeProvideTitle">Services We Provide</h5>
+			<p class="description" id="servicesWeProvideDescription">This is the first of two sections that will be different on mobile versus on desktop or tablet. </p>
 		</div>
 	</div>
 
