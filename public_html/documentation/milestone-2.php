@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="UTF8">
+	<meta charset="UTF-8">
 	<title>Milestone 1</title>
 	<link rel="stylesheet" href="style.css">
 </head>
