@@ -89,8 +89,9 @@
 
 	<div id="personaStory">
 		<h5 id="personaStoryTitle" class="subtitle">User Story</h5>
-		<p id="personaStoryDescription" class="description">As a General Contractor, I need to find subcontractors who
-			are cheap, reliable, and experienced to invite to bid on a construction project.</p>
+		<p id="personaStoryDescription" class="description">As a General Contractor, I need to find out if Rodgers
+			Plumbing and Heating is reliable, and experienced enough to use as a subcontractor on a construction
+			project.</p>
 	</div>
 </div>
 
