@@ -73,8 +73,19 @@
 			completed.</p>
 	</section>
 
+	<section id="location">
+		<h5 class="subtitle" id="locationTitle">8. Location and Information</h5>
+		<p class="description" id="locationDescription"></p>
+	</section>
+
 	<section id="accreditationLinks">
-		<h5 class="subtitle" id="accreditationLinksTitle"></h5>
+		<h5 class="subtitle" id="accreditationLinksTitle">9. Accreditation Links</h5>
+		<p class="description" id="accreditationLinksDescription">This section will have links to the company's
+			accreditations, professional organizations, and social media profiles. This section will be different for
+			desktop and than it will be for mobile and tablets. On Desktop it will take up the bottom of the page, with the
+			accreditations on the left and social media links on the right. For tablet and mobile browsers, the
+			accreditation links will be below the social profiles on the bottom right of the page with the Address section
+			to the left.</p>
 	</section>
 </div>
 
