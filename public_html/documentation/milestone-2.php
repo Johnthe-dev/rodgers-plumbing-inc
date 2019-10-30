@@ -75,7 +75,10 @@
 
 	<section id="location">
 		<h5 class="subtitle" id="locationTitle">8. Location and Information</h5>
-		<p class="description" id="locationDescription"></p>
+		<p class="description" id="locationDescription">This section will contain the address, phone number, and fax
+			number for RPHI. It will also have a google map of the location of RPHI in the Tablet and Desktop versions. It
+			will be to the left of the Accreditation links on the mobile and tablet versions and next to the contact form
+			on the desktop version.</p>
 	</section>
 
 	<section id="accreditationLinks">
