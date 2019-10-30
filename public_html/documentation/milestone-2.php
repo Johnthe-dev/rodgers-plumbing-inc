@@ -70,7 +70,8 @@
 			fill out in order to contact RPHI. This will contain a "captcha" box that will verify that the "person" using
 			the form is in fact not a script and three fields. One for a name, one for an email address, and one for a
 			phone number. These will be validated and sent in an email to a contact at RPHI after the Captcha is
-			completed.</p>
+			completed. The captcha will be underneath the form field for the mobile and PC views and to the right of the
+			form field for the tablet view.</p>
 	</section>
 
 	<section id="location">
@@ -94,19 +95,22 @@
 <div id="wireframes">
 	<section id="iPhone">
 		<h5 class="subtitle" id="iPhoneTitle">iPhone 6/7/8 Wireframes</h5>
-		<img src="iPhone_6-7-8.png" alt="First view of the website for an iPhone. The sections are described in great detail above.">
+		<img src="iPhone_6-7-8.png"
+			  alt="First view of the website for an iPhone. The sections are described in great detail above.">
 		<img src="iPhone_6-7-8_2.png" alt="Second view of the website for an iPhone.">
 	</section>
 
 	<section id="nexusTablet">
 		<h5 class="subtitle" id="nexusTabletTitle">Nexus 9 Tablet Wireframes</h5>
-		<img src="Component_3.png" alt="First view of the website for a tablet. The sections are described in great detail above.">
+		<img src="Component_3.png"
+			  alt="First view of the website for a tablet. The sections are described in great detail above.">
 		<img src="Component_4.png" alt="Second view of the website for a tablet.">
 	</section>
 
 	<section id="pc">
 		<h5 class="subtitle" id="pcTitle">PC Wireframes</h5>
-		<img src="Component_10.png" alt="First view of the website for a personal computer. The sections are described in great detail above.">
+		<img src="Component_10.png"
+			  alt="First view of the website for a personal computer. The sections are described in great detail above.">
 		<img src="Component_6.png" alt="Second view of the website for a computer.">
 		<img src="Component_7.png" alt="Third view of the website for a computer.">
 		<img src="Component_8.png" alt="Fourth view of the website for a computer.">
