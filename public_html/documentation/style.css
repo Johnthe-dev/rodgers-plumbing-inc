@@ -2,17 +2,15 @@
 	font-family: "Arial Black", serif;
 	font-size: 1.5em;
 }
+
 #pageTitle {
 	font-size: 2em;
 	color: antiquewhite;
 }
+
 .subtitle {
 	font-size: 1.25em;
 	font-family: "Arial Black", serif;
-}
-
-img {
-	width: 400px;
 }
 
 div {
@@ -22,10 +20,40 @@ div {
 	justify-content: center;
 	align-content: center;
 }
+
 body {
 	background-color: blue;
 	color: darkblue;
 }
+
 .flex-container {
 	display: flex;
+}
+
+/* Milestone-1 Special*/
+
+.photo img {
+	width: 400px;
+}
+
+/* Milestone-2 Special */
+
+#wireframes section img {
+	border: blue solid 4px;
+}
+
+#iPhone img {
+	width: 400px;
+	margin-right: 2rem;
+}
+
+#nexusTablet img {
+	width: 600px;
+	margin-right: 2rem;
+}
+
+#pc img {
+	background-color: white;
+	width: 80%;
+	margin-bottom: 2rem;
 }
