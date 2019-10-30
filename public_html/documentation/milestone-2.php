@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Milestone 1</title>
+	<title>Milestone 2</title>
 	<link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -92,7 +92,12 @@
 			to the left.</p>
 	</section>
 </div>
+
 <div id="wireframes">
+	<h3 class="title" id="wireframesTitle">Wireframes</h3>
+	<p class="description">The website will have variations between three types of devices(mobile, tablet, and PC), so
+		all three are represented here</p>
+
 	<section id="iPhone">
 		<h5 class="subtitle" id="iPhoneTitle">iPhone 6/7/8 Wireframes</h5>
 		<img src="iPhone_6-7-8.png"
@@ -114,9 +119,7 @@
 		<img src="Component_6.png" alt="Second view of the website for a computer.">
 		<img src="Component_7.png" alt="Third view of the website for a computer.">
 		<img src="Component_8.png" alt="Fourth view of the website for a computer.">
-
 	</section>
-
 </div>
 </body>
 </html>
