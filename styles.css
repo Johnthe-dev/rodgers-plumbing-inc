@@ -17,7 +17,17 @@
 	background-color: rgba(0, 0, 255, 0.6);
 	height:10%;
 }
-
+#title {
+	font-weight: bold;
+	font-size: 1.3rem;
+	color: rgb(3,55,69);
+	background-color: rgb(60, 183, 249);
+	padding-bottom: .5rem;
+}
 .navbar img {
 	height: fit-content;
 }
+ #header-links {
+	 align-items: center;
+	 display: inline-block;
+ }

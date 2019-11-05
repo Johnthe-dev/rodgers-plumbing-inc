@@ -20,44 +20,51 @@
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
 			  integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
 			  crossorigin="anonymous"></script>
-	<div class="container-fluid">
-		<div class="row" id="box-search">
-			<div class="thumbnail text-center">
-				<img src="sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="picture of construction worker on a jobsite"
-					  class="img-responsive">
-				<div class="caption">
-					<p>Rodgers Plumbing and Heating</p>
-				</div>
+	<title>Rodgers Plumbing and Heating</title>
+</head>
+<body>
+<!--for desktop/tablets-->
+<div class="container-fluid d-none d-md-block" id="top">
+	<div class="row" id="box-search">
+		<div class="thumbnail text-center">
+			<img src="sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="picture of construction worker on a jobsite"
+				  class="img-responsive">
+			<div class="caption">
+				<p>Rodgers Plumbing and Heating</p>
 			</div>
 		</div>
 	</div>
-	<title id="top">Rodgers Plumbing and Heating</title>
-</head>
-<body>
-<nav class="navbar navbar-expand-lg navbar-light bg-prime sticky-top">
-	<a href="#top"><img class="navbar-brand" src="http://rphi.biz/images/rphi001002.png"
-		alt="Logo for Rodgers Plumbing and Heating"/></a>
-	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-			  aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+</div>
+<!-- for mobile-->
+<div class="container-fluid d-md-none" id="top">
+	<div class="row" id="box-search">
+		<div class="thumbnail text-center">
+			<h1 id="title">Rodgers Plumbing and Heating</h1>
+			<img src="sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="picture of construction worker on a jobsite"
+				  class="img-responsive">
+		</div>
+	</div>
+</div>
+
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light justify-content-between">
+	<a class="navbar-brand" href="#top"><img src="http://rphi.biz/images/rphi001002.png" alt="logo for Rodgers Plumbing and Heating"></a>
+	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 		<span class="navbar-toggler-icon"></span>
 	</button>
-
-	<div class="collapse navbar-collapse" id="navbarSupportedContent">
-		<ul class="navbar-nav mr-auto">
-			<li class="nav-link">Rodgers Plumbing and Heating</li>
+	<div class="collapse navbar-collapse" id="navbarNav">
+		<ul class="navbar-nav">
 			<li class="nav-item active">
-				<a class="nav-link" href="#">About Us <span class="sr-only">(current)</span></a>
+				<a class="nav-link" href="#about">About Us <span class="sr-only">(current)</span></a>
 			</li>
 			<li class="nav-item">
-				<a class="nav-link" href="#">Services</a>
+				<a class="nav-link" href="#services">Services</a>
 			</li>
-
 			<li class="nav-item">
-				<a class="nav-link" href="#">Contact</a>
+				<a class="nav-link" href="#contact">Contact</a>
 			</li>
 		</ul>
 	</div>
-
 </nav>
 
 
