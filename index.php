@@ -17,15 +17,23 @@
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"
 			  integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T"
 			  crossorigin="anonymous"></script>
-
-	<title>Rodgers Plumbing and Heating</title>
+<div class="container-fluid">
+	<div class="row" id="box-search">
+		<div class="thumbnail text-center">
+			<img src="" alt="" class="img-responsive">
+			<div class="caption">
+				<p>Rodgers Plumbing and Heating</p>
+			</div>
+		</div>
+	</div>
+</div>
+	<title id="top">Rodgers Plumbing and Heating</title>
 </head>
 <body>
-<nav class="navbar navbar-expand-lg navbar-light bg-prime">
-	<img class="navbar-brand">
-		<img
-	</img>
-</div>
+<nav class="navbar navbar-expand-lg navbar-light bg-prime sticky-top">
+	<a href="#top"><img class="navbar-brand" src="http://rphi.biz/images/rphi001002.png" alt="Logo for Rodgers Plumbing and Heating"/></a>
+
+</nav>
 
 
 
