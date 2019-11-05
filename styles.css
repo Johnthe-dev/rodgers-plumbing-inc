@@ -1,0 +1,23 @@
+.thumbnail img {
+	position: relative;
+	max-width: 100%;
+	max-height: fit-content;
+}
+
+.caption {
+	position: absolute;
+	top: 0%;
+	font-size: 300%;
+	font-weight: bolder;
+	left: 0;
+	text-align: left;
+	padding-left: 4%;
+	width: 100%;
+	color: white;
+	background-color: rgba(0, 0, 255, 0.6);
+	height:10%;
+}
+
+.navbar img {
+	height: fit-content;
+}
