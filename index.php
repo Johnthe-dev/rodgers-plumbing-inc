@@ -20,7 +20,7 @@
 <div class="container-fluid">
 	<div class="row" id="box-search">
 		<div class="thumbnail text-center">
-			<img src="" alt="" class="img-responsive">
+			<img src="sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="" class="img-responsive">
 			<div class="caption">
 				<p>Rodgers Plumbing and Heating</p>
 			</div>
