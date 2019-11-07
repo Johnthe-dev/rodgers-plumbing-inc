@@ -46,7 +46,7 @@
 	</div>
 </div>
 
-
+<!--todo make navbar sticky-->
 <nav class="navbar navbar-expand-lg navbar-light bg-light justify-content-between">
 	<a class="navbar-brand" href="#top"><img src="http://rphi.biz/images/rphi001002.png"
 														  alt="logo for Rodgers Plumbing and Heating"></a>
