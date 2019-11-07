@@ -31,3 +31,9 @@
 	 align-items: center;
 	 display: inline-block;
  }
+.col-md-6 img {
+	height:200px;
+}
+.carousel-item img {
+	width: 95%;
+}
