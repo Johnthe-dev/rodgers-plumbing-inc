@@ -155,6 +155,10 @@
 		<span class="sr-only">Next</span>
 	</a>
 </div>
+<footer class="container">
+	<div class="row">
 
+	</div>
+</footer>
 </body>
 </html>
