@@ -15,3 +15,12 @@ Overall, your code quality is good.  You use CSS effectively, as well as have a 
 My main concern is that I'm not sure what this site is or whether it will fit in the PWP scope.  I'm not clear by who your audience is or how you're going to use it.  The persona suggests one thing, the user story suggests something else, and the audience a third.  Please come talk to me so that I can be sure that you're not going to big for this project and trying to do something that won't fit in the project scope.
 
 With early submission, **this Milestone grades at a Tier III**.
+
+## Milestone 2 Feedback
+* Wireframes look good.  The layout and content is effective.
+* Similarly, content strategy is good.  You can be less verbose in the future and let the wireframes speak for themselves.
+* Make sure you get your content from the person ASAP.  It's notoriously slow to get that stuff.
+* On your large version, you have some small white text in a large white space next to a picture.  Consider how to make that feel a little bit less disconnected, perhaps by increasing the text size or modifying the layout so that the text isn't to the side of the image, but instead below it or something.
+* Code validates cleanly.  Nice work.
+
+Overall, this is very good work.  The ambiguity from the prior milestone is gone, the code is clean and it's much more clear what you are doing.  With early submission, **this Milestone grades at a Tier IV**.
