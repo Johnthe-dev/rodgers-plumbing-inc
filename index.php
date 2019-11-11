@@ -11,9 +11,7 @@
 	<link rel="stylesheet" href="styles.css">
 
 	<!-- jQuery first, then Popper.js, then Bootstrap JS -->
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"
-			  integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-			  crossorigin="anonymous"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js" crossorigin="anonymous"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
 			  integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
 			  crossorigin="anonymous"></script>
@@ -68,7 +66,7 @@
 		</ul>
 	</div>
 </nav>
-<div class="container">
+<div class="container" id="about">
 	<div class="row pt-5">
 		<div class="col-md-6">
 			<img src="sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="Stand-In Picture">
@@ -82,7 +80,7 @@
 	</div>
 </div>
 <div class="container">
-	<div class="row align-items-center pt-5">
+	<div class="row align-items-center py-5">
 		<div class="col-md-6">
 			<p>Rodgers Plumbing and Heating was founded in 1973 by life-long Albuquerque native Jim Rodgers. Since then,
 				Rodgers Plumbing and Heating has grown as a diverse, community oriented plumbing company. We participate in
@@ -104,17 +102,17 @@
 		<li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
 		<li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
 	</ol>
-	<div class="carousel-inner">
-		<div class="carousel-item.active">
+	<div class="carousel-inner" id="services">
+		<div class="carousel-item active">
 			<img class="d-block w-100" src="sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="First slide">
-			<div class="carousel-caption d-none d-md-block">
+			<div class="carousel-caption d-none d-md-block" id="caption">
 				<h5>Services We Provide</h5>
 				<p>Rodgers Plumbing and Heating offers a variety of services to our customers.</p>
 			</div>
 		</div>
 		<div class="carousel-item">
 			<img class="d-block w-100" src="sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="Second slide">
-			<div class="carousel-caption d-none d-md-block">
+			<div class="carousel-caption d-none d-md-block" id="caption">
 				<h5>Utility Piping</h5>
 				<p>We offer installation services for gas piping, water piping, and sewer piping. We are licensed to work
 					on utility lines from the street to your home or business.</p>
@@ -122,7 +120,7 @@
 		</div>
 		<div class="carousel-item">
 			<img class="d-block w-100" src="sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="Third slide">
-			<div class="carousel-caption d-none d-md-block">
+			<div class="carousel-caption d-none d-md-block" id="caption">
 				<h5>Fixture Installation/Repair</h5>
 				<p>We install toilets, sinks, bathtubs, garbage disposals, radiant heating, swamp coolers... If you need
 					it installed and it requires gas or water we will probably have you covered!</p>
@@ -130,7 +128,7 @@
 		</div>
 		<div class="carousel-item">
 			<img class="d-block w-100" src="sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="Fourth slide">
-			<div class="carousel-caption d-none d-md-block">
+			<div class="carousel-caption d-none d-md-block" id="caption">
 				<h5>Large Construction</h5>
 				<p>We do ground up construction work from Santa Fe to Las Cruces. We have worked hard over tha last forty
 					years to become one of the most competitive plumbing subcontractors around. contact us if you need a
@@ -139,7 +137,7 @@
 		</div>
 		<div class="carousel-item">
 			<img class="d-block w-100" src="sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="Fifth slide">
-			<div class="carousel-caption d-none d-md-block">
+			<div class="carousel-caption d-none d-md-block" id="caption">
 				<h5>Service Work</h5>
 				<p>We also have commercial and residential repair and troubleshooting available! Call us for scheduling
 					and pricing information!</p>
@@ -155,9 +153,14 @@
 		<span class="sr-only">Next</span>
 	</a>
 </div>
-<footer class="container">
-	<div class="row">
-
+<footer class="container" id="contact">
+	<div class="row pt-5">
+		<div class="col-7">
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3268.043400548775!2d-106.66014908466121!3d35.005618680357344!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87220e998260bb93%3A0xa22064ae417f851f!2s5105%20William%20St%20SE%2C%20Albuquerque%2C%20NM%2087105!5e0!3m2!1sen!2sus!4v1573443477953!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+		</div>
+		<div class="col-5">
+			<img src="https://miro.medium.com/max/721/1*gq9iyNw_4QVIlZkLDeWo0A.png" alt="filler image for form"/>
+		</div>
 	</div>
 </footer>
 </body>
