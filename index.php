@@ -44,7 +44,7 @@
 	</div>
 </div>
 
-<!--todo make navbar sticky-->
+<!--todo make navbar sticky move to header?-->
 <nav class="navbar navbar-expand-lg navbar-light bg-light justify-content-between">
 	<a class="navbar-brand" href="#top"><img src="http://rphi.biz/images/rphi001002.png"
 														  alt="logo for Rodgers Plumbing and Heating"></a>
@@ -153,13 +153,14 @@
 		<span class="sr-only">Next</span>
 	</a>
 </div>
+<!-- add in bootstrap form-->
 <footer class="container" id="contact">
 	<div class="row pt-5">
 		<div class="col-7">
 			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3268.043400548775!2d-106.66014908466121!3d35.005618680357344!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87220e998260bb93%3A0xa22064ae417f851f!2s5105%20William%20St%20SE%2C%20Albuquerque%2C%20NM%2087105!5e0!3m2!1sen!2sus!4v1573443477953!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 		</div>
 		<div class="col-5">
-			<img src="https://miro.medium.com/max/721/1*gq9iyNw_4QVIlZkLDeWo0A.png" alt="filler image for form"/>
+			<img src="https://miro.medium.com/max/721/1*gq9iyNw_4QVIlZkLDeWo0A.png" class="w-100" alt="filler image for form"/>
 		</div>
 	</div>
 </footer>
