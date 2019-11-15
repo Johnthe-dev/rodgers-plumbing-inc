@@ -43,8 +43,7 @@
 <div class="container-fluid d-none d-md-block" id="top">
 	<div class="row" id="box-search">
 		<div class="thumbnail text-center">
-			<img src="../pictures/sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="picture of construction worker on a jobsite"
-				  class="img-responsive">
+			<img src="../pictures/copper_fittings.jpg" alt="picture of copper pipe being swetted" class="img-responsive">
 			<div class="caption">
 				<p>Rodgers Plumbing and Heating</p>
 			</div>
@@ -81,8 +80,7 @@
 	<div class="row" id="box-search">
 		<div class="thumbnail text-center bg-light">
 			<h1 id="title">Rodgers Plumbing and Heating</h1>
-			<img src="../pictures/sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="picture of construction worker on a jobsite"
-				  class="img-responsive">
+			<img src="../pictures/copper_fittings.jpg" alt="picture of copper pipe being swetted" class="img-responsive">
 		</div>
 	</div>
 </div>
@@ -90,7 +88,7 @@
 <div class="container d-flex" id="about">
 	<div class="row align-items-center py-5">
 		<div class="col-md-6 pb-2">
-			<img src="../pictures/sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="Stand-In Picture" class="img-responsive mw-100">
+			<img src="../pictures/picture-of-jay.jpg" alt="Picture of co-owner of Rodgers Plumbing and Heating, Jay Rodgers" class="img-responsive mw-100">
 		</div>
 		<div class="col-md-6">
 			<p>We are a locally owned and operated plumbing and heating company serving Albuquerque, Santa Fe and the rest
@@ -103,7 +101,7 @@
 <div class="container d-flex">
 	<div class="row align-items-center py-5">
 		<div class="col d-md-none pb-2">
-			<img src="../pictures/sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="Stand-In Picture" class="img-responsive mw-100">
+			<img src="../pictures/jamar-penny-ZgmGq_eFmUs-unsplash.jpg" alt="picture of Excavator" class="img-responsive mw-100">
 		</div>
 		<div class="col-md-6">
 			<p>Rodgers Plumbing and Heating was founded in 1973 by life-long Albuquerque native Jim Rodgers. Since then,
@@ -113,7 +111,7 @@
 				hope to continue to do so for many more.</p>
 		</div>
 		<div class="d-none d-md-block col-md-6 pb-2">
-			<img src="../pictures/sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="Stand-In Picture" class="img-responsive mw-100">
+			<img src="../pictures/jamar-penny-ZgmGq_eFmUs-unsplash.jpg" alt="Stand-In Picture" class="img-responsive mw-100">
 		</div>
 	</div>
 </div>
@@ -128,7 +126,7 @@
 	</ol>
 	<div class="carousel-inner" id="services">
 		<div class="carousel-item active">
-			<img class="d-block w-100" src="../pictures/sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="First slide" class="img-responsive">
+			<img class="d-block w-100" src="../pictures/randy-fath-ymf4_9Y9S_A-unsplash.jpg" alt="First slide" class="img-responsive">
 			<div class="carousel-caption d-none d-lg-block" id="caption">
 				<h5>Services We Provide</h5>
 				<p>Rodgers Plumbing and Heating offers a variety of services to our customers.</p>
@@ -139,7 +137,7 @@
 			</div>
 		</div>
 		<div class="carousel-item">
-			<img class="d-block w-100" src="../pictures/sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="Second slide" class="img-responsive">
+			<img class="d-block w-100" src="../pictures/leo-fosdal-TgWWeaTAXCM-unsplash.jpg" alt="Second slide" class="img-responsive">
 			<div class="carousel-caption d-none d-lg-block" id="caption">
 				<h5>Utility Piping</h5>
 				<p>We offer installation services for gas piping, water piping, and sewer piping. We are licensed to work
@@ -152,7 +150,7 @@
 			</div>
 		</div>
 		<div class="carousel-item">
-			<img class="d-block w-100" src="../pictures/sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="Third slide" class="img-responsive">
+			<img class="d-block w-100" src="../pictures/sasikan-ulevik-8jQC5RHWuSE-unsplash.jpg" alt="Third slide" class="img-responsive">
 			<div class="carousel-caption d-none d-lg-block" id="caption">
 				<h5>Fixture Installation/Repair</h5>
 				<p>We install toilets, sinks, bathtubs, garbage disposals, radiant heating, swamp coolers... If you need
@@ -165,7 +163,7 @@
 			</div>
 		</div>
 		<div class="carousel-item">
-			<img class="d-block w-100" src="../pictures/sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="Fourth slide" class="img-responsive">
+			<img class="d-block w-100" src="../pictures/daniel-mccullough-HtBlQdxfG9k-unsplash.jpg" alt="Fourth slide" class="img-responsive">
 			<div class="carousel-caption d-none d-lg-block" id="caption">
 				<h5>Large Construction</h5>
 				<p>We do ground up construction work from Santa Fe to Las Cruces. We have worked hard over tha last forty
@@ -180,7 +178,7 @@
 			</div>
 		</div>
 		<div class="carousel-item">
-			<img class="d-block w-100" src="../pictures/sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="Fifth slide" class="img-responsive">
+			<img class="d-block w-100" src="../pictures/henry-co-3coKbdfnAFg-unsplash.jpg" alt="Fifth slide" class="img-responsive">
 			<div class="carousel-caption d-none d-lg-block" id="caption">
 				<h5>Service Work</h5>
 				<p>We also have commercial and residential repair and troubleshooting available! Call us for scheduling
