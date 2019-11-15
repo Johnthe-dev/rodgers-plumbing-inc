@@ -14,7 +14,7 @@
 	padding-left: 4%;
 	width: 100%;
 	color: white;
-	background-color: rgba(3, 55, 69, 0.6);
+	background-color: rgba(3, 55, 69, 0.8);
 	height:10%;
 }
 .d-lg-none {
@@ -25,14 +25,14 @@
 	background-color: rgb(3, 55, 69);
 }
 #caption{
-	background-color: rgba(0, 0, 255, 0.6);
+	background-color: rgba(3, 55, 69, 0.8);
 }
 #title {
 	font-weight: bold;
 	font-size: 1.3rem;
 	color: rgb(3,55,69);
-	background-color: rgb(60, 183, 249);
 	padding-bottom: .5rem;
+	text-align: center;
 }
 .navbar {
 	height:4rem;
@@ -44,9 +44,6 @@
 	 align-items: center;
 	 display: inline-block;
  }
-.col-md-6 img {
-	height:200px;
-}
 .carousel-item img {
 	width: 95%;
 }

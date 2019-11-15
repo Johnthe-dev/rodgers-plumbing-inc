@@ -51,16 +51,7 @@
 		</div>
 	</div>
 </div>
-<!-- for mobile-->
-<div class="container-fluid d-md-none" id="top">
-	<div class="row" id="box-search">
-		<div class="thumbnail text-center">
-			<h1 id="title">Rodgers Plumbing and Heating</h1>
-			<img src="../pictures/sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="picture of construction worker on a jobsite"
-				  class="img-responsive">
-		</div>
-	</div>
-</div>
+
 
 <!--todo make navbar sticky move to header?-->
 <nav class="navbar navbar-expand-lg navbar-light bg-light justify-content-between sticky-top">
@@ -85,9 +76,20 @@
 		</ul>
 	</div>
 </nav>
-<div class="container" id="about">
+<!-- for mobile-->
+<div class="container-fluid d-md-none" id="top">
+	<div class="row" id="box-search">
+		<div class="thumbnail text-center bg-light">
+			<h1 id="title">Rodgers Plumbing and Heating</h1>
+			<img src="../pictures/sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="picture of construction worker on a jobsite"
+				  class="img-responsive">
+		</div>
+	</div>
+</div>
+
+<div class="container d-flex" id="about">
 	<div class="row align-items-center py-5">
-		<div class="col-md-6">
+		<div class="col-md-6 pb-2">
 			<img src="../pictures/sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="Stand-In Picture" class="img-responsive mw-100">
 		</div>
 		<div class="col-md-6">
@@ -98,8 +100,11 @@
 		</div>
 	</div>
 </div>
-<div class="container">
+<div class="container d-flex">
 	<div class="row align-items-center py-5">
+		<div class="col d-md-none pb-2">
+			<img src="../pictures/sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="Stand-In Picture" class="img-responsive mw-100">
+		</div>
 		<div class="col-md-6">
 			<p>Rodgers Plumbing and Heating was founded in 1973 by life-long Albuquerque native Jim Rodgers. Since then,
 				Rodgers Plumbing and Heating has grown as a diverse, community oriented plumbing company. We participate in
@@ -107,7 +112,7 @@
 				proudly served New Mexico with high quality, competitively priced plumbing services for over forty years and
 				hope to continue to do so for many more.</p>
 		</div>
-		<div class="col-md-6">
+		<div class="d-none d-md-block col-md-6 pb-2">
 			<img src="../pictures/sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="Stand-In Picture" class="img-responsive mw-100">
 		</div>
 	</div>
@@ -202,12 +207,12 @@
 	<div class="row py-5 d-flex justify-content-around">
 
 
-		<div class="col-5-md">
+		<div class="col-md-6">
 			<iframe
 				src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3268.043400548775!2d-106.66014908466121!3d35.005618680357344!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87220e998260bb93%3A0xa22064ae417f851f!2s5105%20William%20St%20SE%2C%20Albuquerque%2C%20NM%2087105!5e0!3m2!1sen!2sus!4v1573443477953!5m2!1sen!2sus"
 				width="100%" height="100%" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 		</div>
-		<div class="col-6-md">
+		<div class="col-md-6 py-4">
 			<form id="johns-form" name="johns-form" action="../php/" method="post">
 				<div class="form-group">
 					<label for="name">Name <span class="text-danger">*</span></label>
@@ -220,13 +225,13 @@
 					</div>
 				</div>
 				<div class="form-group">
-					<label for="email">Email <span class="text-danger">*</span></label>
+					<label for="email">Email Address<span class="text-danger">*</span></label>
 					<div class="input-group">
 						<div class="input-group-prepend">
 							<span class="input-group-text"></span>
 							<i class="fa fa-envelope" aria-hidden="true"></i>
 						</div>
-						<input type="email" class="form-control" id="email" name="email" placeholder="Email">
+						<input type="email" class="form-control" id="email" name="email" placeholder="Your Email Address">
 					</div>
 				</div>
 				<div class="form-group">
@@ -255,7 +260,7 @@
 				<!-- reCAPTCHA -->
 				<div class="g-recaptcha" data-sitekey="6LewKsIUAAAAAEurxqpHO3Cyt0nDVEZXG3wwV4Sx"></div>
 
-				<button class="btn btn-success" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
+				<button class="btn btn-primary" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
 				<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
 			</form>
 		</div>
