@@ -31,7 +31,7 @@
 			  src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/additional-methods.min.js"></script>
 
 	<!-- Your JavaScript Form Validator -->
-	<script src="js/form-validate.js"></script>
+	<script src="public_html/js/form-validate.js"></script>
 
 	<!-- Google reCAPTCHA -->
 	<script src='https://www.google.com/recaptcha/api.js'></script>
@@ -43,7 +43,7 @@
 <div class="container-fluid d-none d-md-block" id="top">
 	<div class="row" id="box-search">
 		<div class="thumbnail text-center">
-			<img src="sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="picture of construction worker on a jobsite"
+			<img src="../sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="picture of construction worker on a jobsite"
 				  class="img-responsive">
 			<div class="caption">
 				<p>Rodgers Plumbing and Heating</p>
@@ -56,7 +56,7 @@
 	<div class="row" id="box-search">
 		<div class="thumbnail text-center">
 			<h1 id="title">Rodgers Plumbing and Heating</h1>
-			<img src="sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="picture of construction worker on a jobsite"
+			<img src="../sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="picture of construction worker on a jobsite"
 				  class="img-responsive">
 		</div>
 	</div>
@@ -88,7 +88,7 @@
 <div class="container" id="about">
 	<div class="row align-items-center py-5">
 		<div class="col-md-6">
-			<img src="sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="Stand-In Picture" class="img-responsive mw-100">
+			<img src="../sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="Stand-In Picture" class="img-responsive mw-100">
 		</div>
 		<div class="col-md-6">
 			<p>We are a locally owned and operated plumbing and heating company serving Albuquerque, Santa Fe and the rest
@@ -108,7 +108,7 @@
 				hope to continue to do so for many more.</p>
 		</div>
 		<div class="col-md-6">
-			<img src="sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="Stand-In Picture" class="img-responsive mw-100">
+			<img src="../sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="Stand-In Picture" class="img-responsive mw-100">
 		</div>
 	</div>
 </div>
@@ -123,7 +123,7 @@
 	</ol>
 	<div class="carousel-inner" id="services">
 		<div class="carousel-item active">
-			<img class="d-block w-100" src="sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="First slide"  class="img-responsive">
+			<img class="d-block w-100" src="../sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="First slide" class="img-responsive">
 			<div class="carousel-caption d-none d-lg-block" id="caption">
 				<h5>Services We Provide</h5>
 				<p>Rodgers Plumbing and Heating offers a variety of services to our customers.</p>
@@ -134,7 +134,7 @@
 			</div>
 		</div>
 		<div class="carousel-item">
-			<img class="d-block w-100" src="sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="Second slide" class="img-responsive">
+			<img class="d-block w-100" src="../sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="Second slide" class="img-responsive">
 			<div class="carousel-caption d-none d-lg-block" id="caption">
 				<h5>Utility Piping</h5>
 				<p>We offer installation services for gas piping, water piping, and sewer piping. We are licensed to work
@@ -147,7 +147,7 @@
 			</div>
 		</div>
 		<div class="carousel-item">
-			<img class="d-block w-100" src="sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="Third slide" class="img-responsive">
+			<img class="d-block w-100" src="../sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="Third slide" class="img-responsive">
 			<div class="carousel-caption d-none d-lg-block" id="caption">
 				<h5>Fixture Installation/Repair</h5>
 				<p>We install toilets, sinks, bathtubs, garbage disposals, radiant heating, swamp coolers... If you need
@@ -160,7 +160,7 @@
 			</div>
 		</div>
 		<div class="carousel-item">
-			<img class="d-block w-100" src="sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="Fourth slide" class="img-responsive">
+			<img class="d-block w-100" src="../sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="Fourth slide" class="img-responsive">
 			<div class="carousel-caption d-none d-lg-block" id="caption">
 				<h5>Large Construction</h5>
 				<p>We do ground up construction work from Santa Fe to Las Cruces. We have worked hard over tha last forty
@@ -175,7 +175,7 @@
 			</div>
 		</div>
 		<div class="carousel-item">
-			<img class="d-block w-100" src="sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="Fifth slide" class="img-responsive">
+			<img class="d-block w-100" src="../sams-solutions-qsk_ifUucWE-unsplash.jpg" alt="Fifth slide" class="img-responsive">
 			<div class="carousel-caption d-none d-lg-block" id="caption">
 				<h5>Service Work</h5>
 				<p>We also have commercial and residential repair and troubleshooting available! Call us for scheduling
