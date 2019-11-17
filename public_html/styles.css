@@ -1,3 +1,6 @@
+body {
+
+}
 .thumbnail img {
 	position: relative;
 	max-width: 100%;
@@ -10,12 +13,13 @@
 	font-size: 300%;
 	font-weight: bolder;
 	left: 0;
-	text-align: left;
+	text-align: center;
 	padding-left: 4%;
 	width: 100%;
 	color: white;
 	background-color: rgba(3, 55, 69, 0.8);
 	height:10%;
+	font-family: "Palatino Linotype", serif;
 }
 .d-lg-none {
 	height: 15rem;
@@ -46,4 +50,7 @@
  }
 .carousel-item img {
 	width: 95%;
+}
+#navBar {
+	box-shadow: -3px 0 rgba(3, 55, 69, 0.8);
 }
