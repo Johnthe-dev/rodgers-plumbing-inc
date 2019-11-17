@@ -43,7 +43,7 @@
 <div class="container-fluid d-none d-md-block" id="top">
 	<div class="row" id="box-search">
 		<div class="thumbnail text-center">
-			<img src="../pictures/copper_fittings.jpg" alt="picture of copper pipe being swetted" class="img-responsive">
+			<img src="../pictures/Photo-2.jpg" alt="picture of copper pipe being swetted" class="img-responsive">
 			<div class="caption">
 				<p>Rodgers Plumbing and Heating</p>
 			</div>
