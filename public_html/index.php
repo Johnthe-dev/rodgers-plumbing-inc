@@ -38,14 +38,15 @@
 	<!--title-->
 	<title>Rodgers Plumbing and Heating</title>
 </head>
-<body>
+<body class="pb-3">
 <!--for desktop/tablets-->
 <div class="container-fluid d-none d-md-block" id="top">
 	<div class="row" id="box-search">
 		<div class="thumbnail text-center">
-			<img src="../pictures/Photo-2.jpg" alt="picture of copper pipe being swetted" class="img-responsive">
+			<img src="../pictures/Photo-2.jpg" alt="picture of front of Rodgers Plumbing and Heating's building in the South Valley" class="img-responsive">
 			<div class="caption">
-				<p>Rodgers Plumbing and Heating</p>
+				<h1>Rodgers Plumbing and Heating</h1>
+				<em>Serving New Mexico's Plumbing Needs Since 1973</em>
 			</div>
 		</div>
 	</div>
@@ -53,7 +54,7 @@
 
 
 <!--todo make navbar sticky move to header?-->
-<nav class="navbar navbar-expand-lg navbar-light bg-light justify-content-between sticky-top" id="navBar">
+<nav class="navbar navbar-expand-lg navbar-light justify-content-between sticky-top" id="navBar">
 	<a class="navbar-brand" href="#top">
 		<img src="http://rphi.biz/images/rphi001002.png" alt="logo for Rodgers Plumbing and Heating">
 	</a>
@@ -62,7 +63,7 @@
 		<span class="navbar-toggler-icon"></span>
 	</button>
 	<div class="collapse navbar-collapse" id="navbarNav">
-		<ul class="navbar-nav bg-light">
+		<ul class="navbar-nav">
 			<li class="nav-item active">
 				<a class="nav-link" href="#about">About Us <span class="sr-only">(current)</span></a>
 			</li>
@@ -78,9 +79,10 @@
 <!-- for mobile-->
 <div class="container-fluid d-md-none" id="top">
 	<div class="row" id="box-search">
-		<div class="thumbnail text-center bg-light">
+		<div class="thumbnail text-center">
 			<h1 id="title">Rodgers Plumbing and Heating</h1>
-			<img src="../pictures/copper_fittings.jpg" alt="picture of copper pipe being swetted" class="img-responsive">
+			<img src="../pictures/Photo-2.jpg" alt="picture of front of Rodgers Plumbing and Heating's building in the South Valley" class="img-responsive">
+			<em>Serving New Mexico's Plumbing Needs Since 1973</em>
 		</div>
 	</div>
 </div>
