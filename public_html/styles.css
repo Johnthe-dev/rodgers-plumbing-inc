@@ -39,7 +39,7 @@ body {
 	font-weight: bold;
 	font-size: 1.3rem;
 	color: rgb(3,55,69);
-	padding-bottom: .5rem;
+	padding: .5rem 0;
 	text-align: center;
 }
 .navbar {

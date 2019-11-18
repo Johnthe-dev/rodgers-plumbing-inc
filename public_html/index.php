@@ -65,7 +65,7 @@
 	<div class="collapse navbar-collapse" id="navbarNav">
 		<ul class="navbar-nav">
 			<li class="nav-item active">
-				<a class="nav-link" href="#about">About Us <span class="sr-only">(current)</span></a>
+				<a class="nav-link" href="#about">About Us</a>
 			</li>
 			<li class="nav-item">
 				<a class="nav-link" href="#services">Services</a>
@@ -113,7 +113,7 @@
 				hope to continue to do so for many more.</p>
 		</div>
 		<div class="d-none d-md-block col-md-6 pb-2">
-			<img src="../pictures/jamar-penny-ZgmGq_eFmUs-unsplash.jpg" alt="Stand-In Picture" class="img-responsive mw-100">
+			<img src="../pictures/jamar-penny-ZgmGq_eFmUs-unsplash.jpg" alt="picture of Excavator" class="img-responsive mw-100">
 		</div>
 	</div>
 </div>
