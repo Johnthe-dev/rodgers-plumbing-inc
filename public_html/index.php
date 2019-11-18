@@ -82,13 +82,13 @@
 		<div class="thumbnail text-center">
 			<h1 id="title">Rodgers Plumbing and Heating</h1>
 			<img src="../pictures/Photo-2.jpg" alt="picture of front of Rodgers Plumbing and Heating's building in the South Valley" class="img-responsive">
-			<em>Serving New Mexico's Plumbing Needs Since 1973</em>
+			<em class="align-middle">Serving New Mexico's Plumbing Needs Since 1973</em>
 		</div>
 	</div>
 </div>
 
 <div class="container d-flex" id="about">
-	<div class="row align-items-center py-5">
+	<div class="row align-items-center py-4">
 		<div class="col-md-6 pb-2">
 			<img src="../pictures/picture-of-jay.jpg" alt="Picture of co-owner of Rodgers Plumbing and Heating, Jay Rodgers" class="img-responsive mw-100">
 		</div>
@@ -101,7 +101,7 @@
 	</div>
 </div>
 <div class="container d-flex">
-	<div class="row align-items-center py-5">
+	<div class="row align-items-center py-4">
 		<div class="col d-md-none pb-2">
 			<img src="../pictures/jamar-penny-ZgmGq_eFmUs-unsplash.jpg" alt="picture of Excavator" class="img-responsive mw-100">
 		</div>
