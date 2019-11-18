@@ -59,9 +59,10 @@ body {
 	box-shadow: 0 3px rgba(3, 55, 69, 0.8);
 	background-color: rgb(255,252,237);
 }
-.carousel-control-next {
-	justify-self: center;
+#next span, #previous span{
+	position: absolute;
+	top: 50%;
+	background-color:  rgba(3, 55, 69, .8);
 }
-.carousel-control-prev {
-	justify-self: center;
-}
+
+
