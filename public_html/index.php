@@ -9,7 +9,7 @@
 			integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous"/>
 
 	<!-- LINK YOUR CSS FILES DOWN HERE -->
-<link rel="stylesheet" href="styles.css">
+	<link rel="stylesheet" href="styles.css">
 	<!-- jQuery first, then Popper.js, then Bootstrap JS -->
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
@@ -35,6 +35,9 @@
 
 	<!-- Google reCAPTCHA -->
 	<script src='https://www.google.com/recaptcha/api.js'></script>
+	<!-- font awesome Icons-->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<!--title-->
 	<title>Rodgers Plumbing and Heating</title>
 </head>
@@ -43,7 +46,9 @@
 <div class="container-fluid d-none d-md-block" id="top">
 	<div class="row" id="box-search">
 		<div class="thumbnail text-center">
-			<img src="../pictures/Photo-2.jpg" alt="picture of front of Rodgers Plumbing and Heating's building in the South Valley" class="img-responsive">
+			<img src="../pictures/Photo-2.jpg"
+				  alt="picture of front of Rodgers Plumbing and Heating's building in the South Valley"
+				  class="img-responsive">
 			<div class="caption">
 				<h1>Rodgers Plumbing and Heating</h1>
 				<em>Serving New Mexico's Plumbing Needs Since 1973</em>
@@ -73,6 +78,11 @@
 			<li class="nav-item">
 				<a class="nav-link" href="#contact">Contact</a>
 			</li>
+			<li class="nav-item">
+				<div class="nav-link">
+					<a href="tel:505-243-9703"><i class="fa fa-phone"></i>(505) 243-9703</a>
+				</div>
+			</li>
 		</ul>
 	</div>
 </nav>
@@ -81,7 +91,9 @@
 	<div class="row" id="box-search">
 		<div class="thumbnail text-center">
 			<h1 id="title">Rodgers Plumbing and Heating</h1>
-			<img src="../pictures/Photo-2.jpg" alt="picture of front of Rodgers Plumbing and Heating's building in the South Valley" class="img-responsive">
+			<img src="../pictures/Photo-2.jpg"
+				  alt="picture of front of Rodgers Plumbing and Heating's building in the South Valley"
+				  class="img-responsive">
 			<em class="align-middle">Serving New Mexico's Plumbing Needs Since 1973</em>
 		</div>
 	</div>
@@ -90,7 +102,8 @@
 <div class="container d-flex" id="about">
 	<div class="row align-items-center py-4">
 		<div class="col-md-6 pb-2">
-			<img src="../pictures/picture-of-jay.jpg" alt="Picture of co-owner of Rodgers Plumbing and Heating, Jay Rodgers" class="img-responsive mw-100">
+			<img src="../pictures/picture-of-jay.jpg"
+				  alt="Picture of co-owner of Rodgers Plumbing and Heating, Jay Rodgers" class="img-responsive mw-100">
 		</div>
 		<div class="col-md-6">
 			<p>We are a locally owned and operated plumbing and heating company serving Albuquerque, Santa Fe and the rest
@@ -103,7 +116,8 @@
 <div class="container d-flex">
 	<div class="row align-items-center py-4">
 		<div class="col d-md-none pb-2">
-			<img src="../pictures/jamar-penny-ZgmGq_eFmUs-unsplash.jpg" alt="picture of Excavator" class="img-responsive mw-100">
+			<img src="../pictures/jamar-penny-ZgmGq_eFmUs-unsplash.jpg" alt="picture of Excavator"
+				  class="img-responsive mw-100">
 		</div>
 		<div class="col-md-6">
 			<p>Rodgers Plumbing and Heating was founded in 1973 by life-long Albuquerque native Jim Rodgers. Since then,
@@ -113,7 +127,8 @@
 				hope to continue to do so for many more.</p>
 		</div>
 		<div class="d-none d-md-block col-md-6 pb-2">
-			<img src="../pictures/jamar-penny-ZgmGq_eFmUs-unsplash.jpg" alt="picture of Excavator" class="img-responsive mw-100">
+			<img src="../pictures/jamar-penny-ZgmGq_eFmUs-unsplash.jpg" alt="picture of Excavator"
+				  class="img-responsive mw-100">
 		</div>
 	</div>
 </div>
@@ -128,7 +143,8 @@
 	</ol>
 	<div class="carousel-inner" id="services">
 		<div class="carousel-item active">
-			<img class="d-block w-100" src="../pictures/randy-fath-ymf4_9Y9S_A-unsplash.jpg" alt="First slide" class="img-responsive">
+			<img class="d-block w-100 img-responsive" src="../pictures/randy-fath-ymf4_9Y9S_A-unsplash.jpg"
+				  alt="First slide">
 			<div class="carousel-caption d-none d-lg-block" id="caption">
 				<h5>Services We Provide</h5>
 				<p>Rodgers Plumbing and Heating offers a variety of services to our customers.</p>
@@ -139,7 +155,8 @@
 			</div>
 		</div>
 		<div class="carousel-item">
-			<img class="d-block w-100" src="../pictures/leo-fosdal-TgWWeaTAXCM-unsplash.jpg" alt="Second slide" class="img-responsive">
+			<img class="d-block w-100 img-responsive" src="../pictures/leo-fosdal-TgWWeaTAXCM-unsplash.jpg"
+				  alt="Second slide">
 			<div class="carousel-caption d-none d-lg-block" id="caption">
 				<h5>Utility Piping</h5>
 				<p>We offer installation services for gas piping, water piping, and sewer piping. We are licensed to work
@@ -152,7 +169,8 @@
 			</div>
 		</div>
 		<div class="carousel-item">
-			<img class="d-block w-100" src="../pictures/sasikan-ulevik-8jQC5RHWuSE-unsplash.jpg" alt="Third slide" class="img-responsive">
+			<img class="d-block w-100 img-responsive" src="../pictures/sasikan-ulevik-8jQC5RHWuSE-unsplash.jpg"
+				  alt="Third slide">
 			<div class="carousel-caption d-none d-lg-block" id="caption">
 				<h5>Fixture Installation/Repair</h5>
 				<p>We install toilets, sinks, bathtubs, garbage disposals, radiant heating, swamp coolers... If you need
@@ -165,7 +183,8 @@
 			</div>
 		</div>
 		<div class="carousel-item">
-			<img class="d-block w-100" src="../pictures/daniel-mccullough-HtBlQdxfG9k-unsplash.jpg" alt="Fourth slide" class="img-responsive">
+			<img class="d-block w-100 img-responsive" src="../pictures/daniel-mccullough-HtBlQdxfG9k-unsplash.jpg"
+				  alt="Fourth slide">
 			<div class="carousel-caption d-none d-lg-block" id="caption">
 				<h5>Large Construction</h5>
 				<p>We do ground up construction work from Santa Fe to Las Cruces. We have worked hard over tha last forty
@@ -180,7 +199,8 @@
 			</div>
 		</div>
 		<div class="carousel-item">
-			<img class="d-block w-100" src="../pictures/henry-co-3coKbdfnAFg-unsplash.jpg" alt="Fifth slide" class="img-responsive">
+			<img class="d-block w-100 img-responsive" src="../pictures/henry-co-3coKbdfnAFg-unsplash.jpg"
+				  alt="Fifth slide">
 			<div class="carousel-caption d-none d-lg-block" id="caption">
 				<h5>Service Work</h5>
 				<p>We also have commercial and residential repair and troubleshooting available! Call us for scheduling
@@ -193,11 +213,13 @@
 			</div>
 		</div>
 	</div>
-	<a class="carousel-control-prev d-none d-md-block" href="#carouselExampleIndicators" role="button" data-slide="prev" id="previous">
+	<a class="carousel-control-prev d-none d-md-block" href="#carouselExampleIndicators" role="button" data-slide="prev"
+		id="previous">
 		<span class="carousel-control-prev-icon rounded" aria-hidden="true"></span>
 		<span class="sr-only">Previous</span>
 	</a>
-	<a class="carousel-control-next d-none d-md-block" href="#carouselExampleIndicators" role="button" data-slide="next" id="next">
+	<a class="carousel-control-next d-none d-md-block" href="#carouselExampleIndicators" role="button" data-slide="next"
+		id="next">
 		<span class="carousel-control-next-icon rounded" aria-hidden="true"></span>
 		<span class="sr-only">Next</span>
 	</a>
@@ -219,7 +241,6 @@
 					<div class="input-group">
 						<div class="input-group-prepend">
 							<span class="input-group-text"></span>
-							<i class="fa fa-user" aria-hidden="true"></i>
 						</div>
 						<input type="text" class="form-control" id="name" name="name" placeholder="Name">
 					</div>
@@ -229,7 +250,6 @@
 					<div class="input-group">
 						<div class="input-group-prepend">
 							<span class="input-group-text"></span>
-							<i class="fa fa-envelope" aria-hidden="true"></i>
 						</div>
 						<input type="email" class="form-control" id="email" name="email" placeholder="Your Email Address">
 					</div>
@@ -239,7 +259,6 @@
 					<div class="input-group">
 						<div class="input-group-prepend">
 							<span class="input-group-text"></span>
-							<i class="fa fa-pencil" aria-hidden="true"></i>
 						</div>
 						<input type="text" class="form-control" id="subject" name="subject"
 								 placeholder="Subject">
@@ -250,7 +269,6 @@
 					<div class="input-group">
 						<div class="input-group-prepend">
 							<span class="input-group-text"></span>
-							<i class="fa fa-comment" aria-hidden="true"></i>
 						</div>
 						<textarea class="form-control" rows="5" id="message" name="message"
 									 placeholder="(2000 characters max)"></textarea>
@@ -258,7 +276,7 @@
 				</div>
 
 				<!-- reCAPTCHA -->
-				<div class="g-recaptcha" data-sitekey="6LewKsIUAAAAAEurxqpHO3Cyt0nDVEZXG3wwV4Sx"></div>
+				<div class="g-recaptcha pb-3" data-sitekey="6LewKsIUAAAAAEurxqpHO3Cyt0nDVEZXG3wwV4Sx"></div>
 
 				<button class="btn btn-primary" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
 				<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>

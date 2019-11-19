@@ -48,6 +48,14 @@ body {
 .navbar img {
 	height: 3rem;
 }
+a {
+	color: rgb(3, 55, 69) !important;
+
+}
+a:hover {
+
+	background-color: rgba(3, 55, 69, .1);
+}
  #header-links {
 	 align-items: center;
 	 display: inline-block;
@@ -55,10 +63,7 @@ body {
 .carousel-item img {
 	width: 95%;
 }
-#navBar {
-	box-shadow: 0 3px rgba(3, 55, 69, 0.8);
-	background-color: rgb(255,252,237);
-}
+
 #next span, #previous span{
 	position: absolute;
 	top: 50%;
@@ -75,4 +80,8 @@ body {
 }
 #navBar button:focus {
 	outline: 5px auto rgb(3, 55, 69);
+}
+#navBar {
+	box-shadow: 0 3px rgba(3, 55, 69, 0.8);
+	background-color: rgb(255,252,237);
 }
