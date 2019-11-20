@@ -59,33 +59,37 @@
 
 
 <!--todo make navbar sticky move to header?-->
-<nav class="navbar navbar-expand-lg navbar-light justify-content-between sticky-top" id="navBar">
-	<a class="navbar-brand" href="#top">
-		<img src="http://rphi.biz/images/rphi001002.png" alt="logo for Rodgers Plumbing and Heating">
-	</a>
-	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
-			  aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-		<span class="navbar-toggler-icon"></span>
-	</button>
-	<div class="collapse navbar-collapse" id="navbarNav">
-		<ul class="navbar-nav">
-			<li class="nav-item active">
-				<a class="nav-link" href="#about">About Us</a>
-			</li>
-			<li class="nav-item">
-				<a class="nav-link" href="#services">Services</a>
-			</li>
-			<li class="nav-item">
-				<a class="nav-link" href="#contact">Contact</a>
-			</li>
-			<li class="nav-item">
-				<div class="nav-link">
-					<a href="tel:505-243-9703"><i class="fa fa-phone"></i>(505) 243-9703</a>
-				</div>
-			</li>
-		</ul>
+<div class="sticky-top" id="titleBar">
+	<div class="container">
+		<nav class="navbar navbar-expand-lg navbar-light justify-content-between" id="navBar">
+			<a class="navbar-brand" href="#top">
+				<img src="http://rphi.biz/images/rphi001002.png" alt="logo for Rodgers Plumbing and Heating">
+			</a>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+					  aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarNav">
+				<ul class="navbar-nav">
+					<li class="nav-item active">
+						<a class="nav-link" href="#about">About Us</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#services">Services</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" href="#contact">Contact</a>
+					</li>
+					<li class="nav-item">
+						<div class="nav-link">
+							<a href="tel:505-243-9703"><i class="fa fa-phone"></i>(505) 243-9703</a>
+						</div>
+					</li>
+				</ul>
+			</div>
+		</nav>
 	</div>
-</nav>
+</div>
 <!-- for mobile-->
 <div class="container-fluid d-md-none" id="top">
 	<div class="row" id="box-search">
