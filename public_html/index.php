@@ -57,8 +57,6 @@
 	</div>
 </div>
 
-
-<!--todo make navbar sticky move to header?-->
 <div class="sticky-top" id="titleBar">
 	<div class="container">
 		<nav class="navbar navbar-expand-lg navbar-light justify-content-between" id="navBar">
@@ -105,11 +103,12 @@
 
 <div class="container d-flex" id="about">
 	<div class="row align-items-center py-4">
-		<div class="col-md-6 pb-2">
+		<div class="col-md-4 pb-2">
 			<img src="../pictures/picture-of-jay.jpg"
-				  alt="Picture of co-owner of Rodgers Plumbing and Heating, Jay Rodgers" class="img-responsive mw-100">
+				  alt="Picture of co-owner of Rodgers Plumbing and Heating, Jay Rodgers"
+				  class="img-responsive mw-100 border border-info rounded">
 		</div>
-		<div class="col-md-6">
+		<div class="col-md-8">
 			<p>We are a locally owned and operated plumbing and heating company serving Albuquerque, Santa Fe and the rest
 				of the great state of New Mexico. We complete projects ranging from small home repair to large hospital
 				construction sites. Consider using Rodgers Plumbing and Heating for your next Plumbing project, large or
@@ -121,7 +120,7 @@
 	<div class="row align-items-center py-4">
 		<div class="col d-md-none pb-2">
 			<img src="../pictures/jamar-penny-ZgmGq_eFmUs-unsplash.jpg" alt="picture of Excavator"
-				  class="img-responsive mw-100">
+				  class="img-responsive mw-100 border border-info rounded">
 		</div>
 		<div class="col-md-6">
 			<p>Rodgers Plumbing and Heating was founded in 1973 by life-long Albuquerque native Jim Rodgers. Since then,
@@ -132,7 +131,7 @@
 		</div>
 		<div class="d-none d-md-block col-md-6 pb-2">
 			<img src="../pictures/jamar-penny-ZgmGq_eFmUs-unsplash.jpg" alt="picture of Excavator"
-				  class="img-responsive mw-100">
+				  class="img-responsive mw-100 border border-info rounded">
 		</div>
 	</div>
 </div>
@@ -232,65 +231,65 @@
 <footer class="container " id="contact">
 	<div class="row py-5 d-flex justify-content-around">
 
-			<div class="col-md-6">
-				<iframe
-					src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3268.043400548775!2d-106.66014908466121!3d35.005618680357344!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87220e998260bb93%3A0xa22064ae417f851f!2s5105%20William%20St%20SE%2C%20Albuquerque%2C%20NM%2087105!5e0!3m2!1sen!2sus!4v1573443477953!5m2!1sen!2sus"
-					width="100%" height="100%" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
-			</div>
-			<div class="col-md-5 py-4">
-				<form id="johns-form" name="johns-form" action="../php/" method="post">
-					<div class="form-group">
-						<label for="name">Name <span class="text-danger">*</span></label>
-						<div class="input-group">
-							<div class="input-group-prepend">
-								<span class="input-group-text"></span>
-							</div>
-							<input type="text" class="form-control" id="name" name="name" placeholder="Name">
+		<div class="col-md-6">
+			<iframe
+				src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3268.043400548775!2d-106.66014908466121!3d35.005618680357344!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87220e998260bb93%3A0xa22064ae417f851f!2s5105%20William%20St%20SE%2C%20Albuquerque%2C%20NM%2087105!5e0!3m2!1sen!2sus!4v1573443477953!5m2!1sen!2sus"
+				width="100%" height="100%" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+		</div>
+		<div class="col-md-5 py-4">
+			<form id="johns-form" name="johns-form" action="../php/" method="post">
+				<div class="form-group">
+					<label for="name">Name <span class="text-danger">*</span></label>
+					<div class="input-group">
+						<div class="input-group-prepend">
+							<span class="input-group-text"></span>
 						</div>
+						<input type="text" class="form-control" id="name" name="name" placeholder="Name">
 					</div>
-					<div class="form-group">
-						<label for="email">Email Address<span class="text-danger">*</span></label>
-						<div class="input-group">
-							<div class="input-group-prepend">
-								<span class="input-group-text"></span>
-							</div>
-							<input type="email" class="form-control" id="email" name="email" placeholder="Your Email Address">
-						</div>
-					</div>
-					<div class="form-group">
-						<label for="subject">Subject</label>
-						<div class="input-group">
-							<div class="input-group-prepend">
-								<span class="input-group-text"></span>
-							</div>
-							<input type="text" class="form-control" id="subject" name="subject"
-									 placeholder="Subject">
-						</div>
-					</div>
-					<div class="form-group">
-						<label for="message">Message <span class="text-danger">*</span></label>
-						<div class="input-group">
-							<div class="input-group-prepend">
-								<span class="input-group-text"></span>
-							</div>
-							<textarea class="form-control" rows="5" id="message" name="message"
-										 placeholder="(2000 characters max)"></textarea>
-						</div>
-					</div>
-
-					<!-- reCAPTCHA -->
-					<div class="g-recaptcha pb-3" data-sitekey="6LewKsIUAAAAAEurxqpHO3Cyt0nDVEZXG3wwV4Sx"></div>
-
-					<button class="btn btn-primary" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
-					<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
-				</form>
-			</div>
-			<!--empty area for form error/success output-->
-			<div class="row">
-				<div class="col-xs-12">
-					<div id="output-area"></div>
 				</div>
+				<div class="form-group">
+					<label for="email">Email Address<span class="text-danger">*</span></label>
+					<div class="input-group">
+						<div class="input-group-prepend">
+							<span class="input-group-text"></span>
+						</div>
+						<input type="email" class="form-control" id="email" name="email" placeholder="Your Email Address">
+					</div>
+				</div>
+				<div class="form-group">
+					<label for="subject">Subject</label>
+					<div class="input-group">
+						<div class="input-group-prepend">
+							<span class="input-group-text"></span>
+						</div>
+						<input type="text" class="form-control" id="subject" name="subject"
+								 placeholder="Subject">
+					</div>
+				</div>
+				<div class="form-group">
+					<label for="message">Message <span class="text-danger">*</span></label>
+					<div class="input-group">
+						<div class="input-group-prepend">
+							<span class="input-group-text"></span>
+						</div>
+						<textarea class="form-control" rows="5" id="message" name="message"
+									 placeholder="(2000 characters max)"></textarea>
+					</div>
+				</div>
+
+				<!-- reCAPTCHA -->
+				<div class="g-recaptcha pb-3" data-sitekey="6LewKsIUAAAAAEurxqpHO3Cyt0nDVEZXG3wwV4Sx"></div>
+
+				<button class="btn btn-primary" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
+				<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
+			</form>
+		</div>
+		<!--empty area for form error/success output-->
+		<div class="row">
+			<div class="col-xs-12">
+				<div id="output-area"></div>
 			</div>
+		</div>
 
 </footer>
 </body>
