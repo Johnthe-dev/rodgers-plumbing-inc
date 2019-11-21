@@ -23,12 +23,9 @@
 	<script src="https://code.jquery.com/jquery-3.4.1.min.js"
 			  integrity="sha384-vk5WoKIaW/vJyUAd9n/wmopsmNhiy+L2Z+SBxGYnUkunIxVxAv/UtMOhba/xskxh"
 			  crossorigin="anonymous"></script>
-	<script type="text/javascript"
-			  src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.2/jquery.form.min.js"></script>
-	<script type="text/javascript"
-			  src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
-	<script type="text/javascript"
-			  src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/additional-methods.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.2/jquery.form.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/additional-methods.min.js"></script>
 
 	<!-- Your JavaScript Form Validator -->
 	<script src="public_html/js/form-validate.js"></script>
@@ -89,8 +86,8 @@
 	</div>
 </div>
 <!-- for mobile-->
-<div class="container-fluid d-md-none" id="top">
-	<div class="row" id="box-search">
+<div class="container-fluid d-md-none">
+	<div class="row">
 		<div class="thumbnail text-center">
 			<h1 id="title">Rodgers Plumbing and Heating</h1>
 			<img src="../pictures/Photo-2.jpg"
@@ -152,7 +149,7 @@
 				<h5>Services We Provide</h5>
 				<p>Rodgers Plumbing and Heating offers a variety of services to our customers.</p>
 			</div>
-			<div class="d-lg-none" id="caption-md">
+			<div class="d-lg-none">
 				<h5>Services We Provide</h5>
 				<p>Rodgers Plumbing and Heating offers a variety of services to our customers.</p>
 			</div>
@@ -160,12 +157,12 @@
 		<div class="carousel-item">
 			<img class="d-block w-100 img-responsive" src="../pictures/leo-fosdal-TgWWeaTAXCM-unsplash.jpg"
 				  alt="Second slide">
-			<div class="carousel-caption d-none d-lg-block" id="caption">
+			<div class="carousel-caption d-none d-lg-block" >
 				<h5>Utility Piping</h5>
 				<p>We offer installation services for gas piping, water piping, and sewer piping. We are licensed to work
 					on utility lines from the street to your home or business.</p>
 			</div>
-			<div class="d-lg-none" id="caption-md">
+			<div class="d-lg-none">
 				<h5>Utility Piping</h5>
 				<p>We offer installation services for gas piping, water piping, and sewer piping. We are licensed to work
 					on utility lines from the street to your home or business.</p>
@@ -174,12 +171,12 @@
 		<div class="carousel-item">
 			<img class="d-block w-100 img-responsive" src="../pictures/sasikan-ulevik-8jQC5RHWuSE-unsplash.jpg"
 				  alt="Third slide">
-			<div class="carousel-caption d-none d-lg-block" id="caption">
+			<div class="carousel-caption d-none d-lg-block" >
 				<h5>Fixture Installation/Repair</h5>
 				<p>We install toilets, sinks, bathtubs, garbage disposals, radiant heating, swamp coolers... If you need
 					it installed and it requires gas or water we will probably have you covered!</p>
 			</div>
-			<div class="d-lg-none" id="caption-md">
+			<div class="d-lg-none">
 				<h5>Fixture Installation/Repair</h5>
 				<p>We install toilets, sinks, bathtubs, garbage disposals, radiant heating, swamp coolers... If you need
 					it installed and it requires gas or water we will probably have you covered!</p>
@@ -188,13 +185,13 @@
 		<div class="carousel-item">
 			<img class="d-block w-100 img-responsive" src="../pictures/daniel-mccullough-HtBlQdxfG9k-unsplash.jpg"
 				  alt="Fourth slide">
-			<div class="carousel-caption d-none d-lg-block" id="caption">
+			<div class="carousel-caption d-none d-lg-block" >
 				<h5>Large Construction</h5>
 				<p>We do ground up construction work from Santa Fe to Las Cruces. We have worked hard over tha last forty
 					years to become one of the most competitive plumbing subcontractors around. contact us if you need a
 					price from our estimators for your next construction project!</p>
 			</div>
-			<div class="d-lg-none" id="caption-md">
+			<div class="d-lg-none">
 				<h5>Large Construction</h5>
 				<p>We do ground up construction work from Santa Fe to Las Cruces. We have worked hard over tha last forty
 					years to become one of the most competitive plumbing subcontractors around. contact us if you need a
@@ -204,12 +201,12 @@
 		<div class="carousel-item">
 			<img class="d-block w-100 img-responsive" src="../pictures/henry-co-3coKbdfnAFg-unsplash.jpg"
 				  alt="Fifth slide">
-			<div class="carousel-caption d-none d-lg-block" id="caption">
+			<div class="carousel-caption d-none d-lg-block">
 				<h5>Service Work</h5>
 				<p>We also have commercial and residential repair and troubleshooting available! Call us for scheduling
 					and pricing information!</p>
 			</div>
-			<div class="d-lg-none" id="caption-md">
+			<div class="d-lg-none">
 				<h5>Service Work</h5>
 				<p>We also have commercial and residential repair and troubleshooting available! Call us for scheduling
 					and pricing information!</p>
@@ -234,7 +231,7 @@
 		<div class="col-md-6">
 			<iframe
 				src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3268.043400548775!2d-106.66014908466121!3d35.005618680357344!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87220e998260bb93%3A0xa22064ae417f851f!2s5105%20William%20St%20SE%2C%20Albuquerque%2C%20NM%2087105!5e0!3m2!1sen!2sus!4v1573443477953!5m2!1sen!2sus"
-				width="100%" height="100%" allowfullscreen=""></iframe>
+				allowfullscreen=""></iframe>
 		</div>
 		<div class="col-md-5 py-4">
 			<form id="johns-form" name="johns-form" action="../php/" method="post">
@@ -291,7 +288,7 @@
 				<div id="output-area"></div>
 			</div>
 		</div>
-
+	</div>
 </footer>
 </body>
 </html>
