@@ -253,7 +253,8 @@
 						<div class="input-group-prepend">
 							<span class="input-group-text"></span>
 						</div>
-						<input type="email" class="form-control rounded-right" id="email" name="email" placeholder="Your Email Address">
+						<input type="email" class="form-control rounded-right" id="email" name="email"
+								 placeholder="Your Email Address">
 					</div>
 				</div>
 				<div class="form-group">
