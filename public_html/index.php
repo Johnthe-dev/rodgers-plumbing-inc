@@ -43,7 +43,7 @@
 <div class="container-fluid d-none d-md-block" id="top">
 	<div class="row" id="box-search">
 		<div class="thumbnail text-center">
-			<img src="../pictures/Photo-2.jpg"
+			<img src="pictures/Photo-2.jpg"
 				  alt="picture of front of Rodgers Plumbing and Heating's building in the South Valley"
 				  class="img-responsive">
 			<div class="caption">
@@ -90,7 +90,7 @@
 	<div class="row">
 		<div class="thumbnail text-center">
 			<h1 id="title">Rodgers Plumbing and Heating</h1>
-			<img src="../pictures/Photo-2.jpg"
+			<img src="pictures/Photo-2.jpg"
 				  alt="picture of front of Rodgers Plumbing and Heating's building in the South Valley"
 				  class="img-responsive">
 			<em class="align-middle">Serving New Mexico's Plumbing Needs Since 1973</em>
@@ -101,7 +101,7 @@
 <div class="container d-flex" id="about">
 	<div class="row align-items-center py-4">
 		<div class="col-md-4 pb-2">
-			<img src="../pictures/picture-of-jay.jpg"
+			<img src="pictures/picture-of-jay.jpg"
 				  alt="Picture of co-owner of Rodgers Plumbing and Heating, Jay Rodgers"
 				  class="img-responsive mw-100 border border-info rounded">
 		</div>
@@ -116,7 +116,7 @@
 <div class="container d-flex">
 	<div class="row align-items-center py-4">
 		<div class="col d-md-none pb-2">
-			<img src="../pictures/jamar-penny-ZgmGq_eFmUs-unsplash.jpg" alt="picture of Excavator"
+			<img src="pictures/jamar-penny-ZgmGq_eFmUs-unsplash.jpg" alt="picture of Excavator"
 				  class="img-responsive mw-100 border border-info rounded">
 		</div>
 		<div class="col-md-6">
@@ -127,7 +127,7 @@
 				hope to continue to do so for many more.</p>
 		</div>
 		<div class="d-none d-md-block col-md-6 pb-2">
-			<img src="../pictures/jamar-penny-ZgmGq_eFmUs-unsplash.jpg" alt="picture of Excavator"
+			<img src="pictures/jamar-penny-ZgmGq_eFmUs-unsplash.jpg" alt="picture of Excavator"
 				  class="img-responsive mw-100 border border-info rounded">
 		</div>
 	</div>
@@ -143,7 +143,7 @@
 	</ol>
 	<div class="carousel-inner" id="services">
 		<div class="carousel-item active">
-			<img class="d-block w-100 img-responsive" src="../pictures/randy-fath-ymf4_9Y9S_A-unsplash.jpg"
+			<img class="d-block w-100 img-responsive" src="pictures/randy-fath-ymf4_9Y9S_A-unsplash.jpg"
 				  alt="First slide">
 			<div class="carousel-caption d-none d-lg-block" id="caption">
 				<h5>Services We Provide</h5>
@@ -155,9 +155,9 @@
 			</div>
 		</div>
 		<div class="carousel-item">
-			<img class="d-block w-100 img-responsive" src="../pictures/leo-fosdal-TgWWeaTAXCM-unsplash.jpg"
+			<img class="d-block w-100 img-responsive" src="pictures/leo-fosdal-TgWWeaTAXCM-unsplash.jpg"
 				  alt="Second slide">
-			<div class="carousel-caption d-none d-lg-block" >
+			<div class="carousel-caption d-none d-lg-block">
 				<h5>Utility Piping</h5>
 				<p>We offer installation services for gas piping, water piping, and sewer piping. We are licensed to work
 					on utility lines from the street to your home or business.</p>
@@ -169,9 +169,9 @@
 			</div>
 		</div>
 		<div class="carousel-item">
-			<img class="d-block w-100 img-responsive" src="../pictures/sasikan-ulevik-8jQC5RHWuSE-unsplash.jpg"
+			<img class="d-block w-100 img-responsive" src="pictures/sasikan-ulevik-8jQC5RHWuSE-unsplash.jpg"
 				  alt="Third slide">
-			<div class="carousel-caption d-none d-lg-block" >
+			<div class="carousel-caption d-none d-lg-block">
 				<h5>Fixture Installation/Repair</h5>
 				<p>We install toilets, sinks, bathtubs, garbage disposals, radiant heating, swamp coolers... If you need
 					it installed and it requires gas or water we will probably have you covered!</p>
@@ -183,9 +183,9 @@
 			</div>
 		</div>
 		<div class="carousel-item">
-			<img class="d-block w-100 img-responsive" src="../pictures/daniel-mccullough-HtBlQdxfG9k-unsplash.jpg"
+			<img class="d-block w-100 img-responsive" src="pictures/daniel-mccullough-HtBlQdxfG9k-unsplash.jpg"
 				  alt="Fourth slide">
-			<div class="carousel-caption d-none d-lg-block" >
+			<div class="carousel-caption d-none d-lg-block">
 				<h5>Large Construction</h5>
 				<p>We do ground up construction work from Santa Fe to Las Cruces. We have worked hard over tha last forty
 					years to become one of the most competitive plumbing subcontractors around. contact us if you need a
@@ -199,7 +199,7 @@
 			</div>
 		</div>
 		<div class="carousel-item">
-			<img class="d-block w-100 img-responsive" src="../pictures/henry-co-3coKbdfnAFg-unsplash.jpg"
+			<img class="d-block w-100 img-responsive" src="pictures/henry-co-3coKbdfnAFg-unsplash.jpg"
 				  alt="Fifth slide">
 			<div class="carousel-caption d-none d-lg-block">
 				<h5>Service Work</h5>
@@ -231,7 +231,7 @@
 		<div class="col-md-6">
 			<iframe
 				src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3268.043400548775!2d-106.66014908466121!3d35.005618680357344!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87220e998260bb93%3A0xa22064ae417f851f!2s5105%20William%20St%20SE%2C%20Albuquerque%2C%20NM%2087105!5e0!3m2!1sen!2sus!4v1573443477953!5m2!1sen!2sus"
-				allowfullscreen=""></iframe>
+				allowfullscreen="" id="map"></iframe>
 		</div>
 		<div class="col-md-5 py-4">
 			<form id="johns-form" name="johns-form" action="../php/" method="post">
@@ -274,20 +274,22 @@
 									 placeholder="(2000 characters max)"></textarea>
 					</div>
 				</div>
-
 				<!-- reCAPTCHA -->
-				<div class="g-recaptcha pb-3" data-sitekey="6LewKsIUAAAAAEurxqpHO3Cyt0nDVEZXG3wwV4Sx"></div>
-
-				<button class="btn btn-primary" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
-				<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
+				<div class="g-recaptcha pb-3" data-sitekey="6LeyAMQUAAAAALW4S9ml8kSwWWc-Rw6_6e-Cfi74"></div>
+<!--				<div class="g-recaptcha pb-3" data-sitekey="6LewKsIUAAAAAEurxqpHO3Cyt0nDVEZXG3wwV4Sx"></div>-->
+				<div>
+					<button class="btn btn-primary" type="submit"><i class="fa fa-paper-plane"></i> Send</button>
+					<button class="btn btn-warning" type="reset"><i class="fa fa-ban"></i> Reset</button>
+				</div>
 			</form>
-		</div>
-		<!--empty area for form error/success output-->
-		<div class="row">
-			<div class="col-xs-12">
-				<div id="output-area"></div>
+			<!--empty area for form error/success output-->
+			<div class="row">
+				<div class="col-xs-12">
+					<div id="output-area"></div>
+				</div>
 			</div>
 		</div>
+
 	</div>
 </footer>
 </body>
