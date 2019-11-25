@@ -40,6 +40,10 @@ a:hover {
 	outline: 5px auto rgb(3, 55, 69);
 }
 
+#navBar {
+	padding: 0 8px;
+}
+
 .navbar {
 	height: 4rem;
 }
