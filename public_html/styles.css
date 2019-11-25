@@ -100,8 +100,6 @@ a:hover {
 }
 
 #next span, #previous span {
-	position: absolute;
-	top: 50%;
 	background-color: rgba(3, 55, 69, .8);
 }
 
