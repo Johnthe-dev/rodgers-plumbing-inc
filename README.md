@@ -24,3 +24,6 @@ With early submission, **this Milestone grades at a Tier III**.
 * Code validates cleanly.  Nice work.
 
 Overall, this is very good work.  The ambiguity from the prior milestone is gone, the code is clean and it's much more clear what you are doing.  With early submission, **this Milestone grades at a Tier IV**.
+
+## Milestone 4 feedback
+Good work! Design follows intended strategy, submitted on time/early. Renders on browser and mobile as expected and conforms accordingly. Solid git hygiene. This passes Tier IV.
